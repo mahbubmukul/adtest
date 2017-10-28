@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "301865403405",
+    "firebase_url": "https://testpush-586f9.firebaseio.com",
+    "project_id": "testpush-586f9",
+    "storage_bucket": "testpush-586f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301865403405:android:c4370c31e52bea67",
+        "android_client_info": {
+          "package_name": "com.example.acer.adtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301865403405-vfkr4nvvlt0vh6gofhrgs26bpiuif4kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjYtDM6qWsE52SPmeypLiu4s8n4WISLY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
